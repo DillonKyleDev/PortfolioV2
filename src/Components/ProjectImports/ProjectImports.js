@@ -98,7 +98,7 @@ export const NetflixProject =
   description="A clone of the Netflix 2022 home page.  A quick project that demonstrates ability to replicate front-end specifications."
   tags={["React", "JavaScript", "HTML/CSS", "Responsive", "Clone"]}
   githubLink='https://github.com/DillonKyleDev/Netflix-Clone'
-  liveSiteLink='https://netflix-home-2021.herokuapp.com/'
+  liveSiteLink=''
   playStoreLink=''/>
 export const TicketHoundProject =
 <Project 
@@ -108,7 +108,7 @@ export const TicketHoundProject =
   description="A React based ticket/issue tracking app that offers different authorization levels for accounts. Adding and editing projects and tickets, and more!"
   tags={["React", "JavaScript", "HTML/CSS", "MaterialUI", "MongoDB", "Node.js", "Express", "Authentication" ]}
   githubLink='https://github.com/DillonKyleDev/tickethound'
-  liveSiteLink='https://polar-river-74527.herokuapp.com/'
+  liveSiteLink=''
   playStoreLink=''/>
 export const PaidArtPortfolioProject =
 <Project 
@@ -128,5 +128,5 @@ export const PortfolioV1Project =
   description="My first Front-end Web Development portfolio. It was made using vanilla JavaScript, HTML and CSS, and showcases some of my early learning."
   tags={["JavaScript", "HTML/CSS", "Responsive", "Node.js", "Express"]}
   githubLink='https://github.com/DillonKyleDev/PortfolioV1'
-  liveSiteLink='https://portfolioversion1.herokuapp.com/'
+  liveSiteLink=''
   playStoreLink=''/>
