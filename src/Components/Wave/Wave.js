@@ -77,7 +77,7 @@ function Wave(props) {
     setInterval(() => {
       moveWave();
     }, (duration * 1000))
-  }, []);
+  });
 
   return (
     <div>
